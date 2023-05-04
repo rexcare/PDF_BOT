@@ -65,6 +65,7 @@ PINECONE_INDEX_NAME=
 
 Once you've verified that the embeddings and content have been successfully added to your Pinecone, you can run the app `npm run dev` to launch the local dev environment, and then type a question in the chat interface.
 
+
 ## Troubleshooting
 
 In general, keep an eye out in the `issues` and `discussions` section of this repo for solutions.
