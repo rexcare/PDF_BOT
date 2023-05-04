@@ -10,6 +10,7 @@ The visual guide of this repo and tutorial is in the `visual guide` folder.
 
 Prelude: Please make sure you have already downloaded node on your system and the version is 18 or greater.
 
+
 ## Development
 
 1. Clone the repo or download the ZIP
